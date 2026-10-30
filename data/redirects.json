@@ -1,0 +1,12 @@
+{
+  "redirects": {
+    "hn": {
+      "target": "aHR0cHM6Ly93b3NoaXlpZ2VtYW5odWFqaWEuZ2l0aHViLmlvL2h1bmFuLXRhcmlmZi1zaXRlLw==",
+      "created": "2026-10-30T00:00:00Z"
+    },
+    "demo": {
+      "target": "aHR0cHM6Ly9naXRodWIuY29tL2JpdC10b3JjaC9zaG9ydGxpbmtz",
+      "created": "2026-10-30T00:00:00Z"
+    }
+  }
+}
